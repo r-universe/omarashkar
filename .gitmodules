@@ -5,6 +5,3 @@
 [submodule "GIFTr"]
 	path = GIFTr
 	url = https://github.com/omarashkar/giftr
-[submodule "PKbioanalysis"]
-	path = PKbioanalysis
-	url = https://github.com/omarashkar/pkbioanalysis
